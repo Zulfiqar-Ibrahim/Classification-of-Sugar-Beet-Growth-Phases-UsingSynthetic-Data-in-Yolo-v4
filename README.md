@@ -224,15 +224,16 @@ growth stage of the sugar beet.
   <img src="Images/5.png" width="300" height="300">
 </p>
 
-<p align="center">
-  <img src="Images/6.png" width="300" height="300">
-</p>
-
-a perfect classification score is achieved for the
+A perfect classification score is achieved for the
 stage 4 sugar beet test data. This data point is from a real-
 time control environment with almost no sunlight. Even due
 to these shortcomings, the network is still able to classify the
 object.
+
+<p align="center">
+  <img src="Images/6.png" width="300" height="300">
+</p>
+
 
 
 
