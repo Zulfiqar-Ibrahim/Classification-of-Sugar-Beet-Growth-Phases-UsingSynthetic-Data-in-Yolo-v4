@@ -19,4 +19,21 @@ The optimal goal of this project is to achieve the substantial
 percentage of Mean Average Precision (m.A.P) in Yolo net by
 using synthetic data.
 
+
+To achieve this goal, pipeline is divided
+this pipeline into IV parts. Part I is designated for the creation
+of 3D models of sugar beets according to their age group.
+In part II, these 3D models are placed into the Unreal Engine
+farm environment. This simulation provides two sets of videos
+where one video is in general RGB format and the second
+video is in black and red segmented format. This pixel-wise
+segmented format is provided by the Unreal engine. In part III,
+original RGB image are labeled by using a segmented image,
+through the OpenCV library. In part IV feed Yolo net with
+these labelled images for the training and validation purpose.
+
+## Project Pipe line 
+
+<img src="Images/draw_io.png" width="300" height="300">
+
 <img src="Images/SugarBeet_stage_1.png" width="300" height="300">
