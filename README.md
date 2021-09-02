@@ -6,4 +6,4 @@ Unreal engine is used to simulate a farm-like environment for acquisition traini
 training and validation process for Yolo net. In the end, 3D models of sugar beet in a simulated environment have produced
 substantial results which proved that synthetic data can be used for real-life application of object detection.
 
-<img src="Images/SugarBeet_stage_1.png" width="100" height="100">
+<img src="Images/SugarBeet_stage_1.png" width="300" height="300">
