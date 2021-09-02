@@ -58,4 +58,31 @@ camera will be discussed later.
 
 <img src="Images/draw_io.png">
 
+### Camera Setup
+
+
+The camera is the most important component in this sim-
+ulation which is used for the image acquisition of sugar beet
+plants. The project mode of the imaging system is set as
+”Perspective” and Field of View is set around 90 ◦ . The reason
+for 90 ◦ is the capture most of the ground without the fish-
+eye lens effect. The aspect ratio is set around 1.777 but it
+can be changed according to requirements. This camera setup
+provides sharp images of sugar beet planted in the soil. The
+distance between soil and camera is around 1.5 meters.
+
+
+### 3D models of Sugar Beet
+
+To create a simulation in Unreal Engine, a 3D model of
+sugar beet is designed in Blender. This is the best tool available
+for 3D modeling and designing. With the help of this tool, 5
+phases of sugar beet are created. These 5 phases are according
+to their growth stages.
+
+
 <img src="Images/SugarBeet_stage_1.png" width="300" height="300">
+
+Phase 0 refers to the initial growth stage which is very
+early in development. This stage has very small leaves and
+a vertically longer beetroot.
