@@ -86,3 +86,23 @@ to their growth stages.
 Phase 0 refers to the initial growth stage which is very
 early in development. This stage has very small leaves and
 a vertically longer beetroot.
+
+
+<img src="Images/SugarBeet_stage_2.png" width="300" height="300">
+
+Phase 1 refers to the early stage of growth with 4 leaves. In
+this setting, two leaves are longer than the other two leaves.
+The beetroot is slightly bigger than the phase 0 beetroot.
+
+<img src="Images/SugarBeet_stage_3.png" width="300" height="300">
+
+In phase 2, mature leaves are compared to the last stage’s
+leaves. The beetroot is more elongated as compared to the
+phase 1 beetroot.
+The main flower is 20 % open and leaves are starting to get
+a yellowish-green color. All 4 leaves are properly unfolded.
+This growth is also named Rosette growth.
+
+<img src="Images/SugarBeet_stage_4.png" width="300" height="300">
+
+
