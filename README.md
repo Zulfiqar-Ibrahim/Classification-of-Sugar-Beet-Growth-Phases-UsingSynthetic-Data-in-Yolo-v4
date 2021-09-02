@@ -34,6 +34,6 @@ these labelled images for the training and validation purpose.
 
 ## Project Pipe line 
 
-<img src="Images/draw_io.png" width="300" height="300">
+<img src="Images/draw_io.png">
 
 <img src="Images/SugarBeet_stage_1.png" width="300" height="300">
