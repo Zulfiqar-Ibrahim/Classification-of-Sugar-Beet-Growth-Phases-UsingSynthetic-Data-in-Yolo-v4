@@ -185,7 +185,54 @@ Precision(mAP) and Average Loss.
 </p>
 
 
+### Results 
 
+
+After collecting data from simulation in an unreal engine
+environment, Yolo network is trained and validated. To check
+the classification accuracy, real-time data of sugar beet from
+the internet is collected and tested on Yolo network. With 92%
+mAP, a good score against this unseen data is achieved.
+
+
+
+<p align="center">
+  <img src="Images/1.png" width="300" height="300">
+</p>
+
+Due to the small distance between camera and object
+appears very large. This anomaly results in classification errors
+of the network
+
+<p align="center">
+  <img src="Images/2.png" width="300" height="300">
+</p>
+
+This test data is from simulated farmland in an Unreal
+engine. As it can be seen that it has correctly classified the
+growth stage of the sugar beet.
+
+<p align="center">
+  <img src="Images/3.png" width="300" height="300">
+</p>
+
+<p align="center">
+  <img src="Images/4.png" width="300" height="300">
+</p>
+
+<p align="center">
+  <img src="Images/5.png" width="300" height="300">
+</p>
+
+<p align="center">
+  <img src="Images/6.png" width="300" height="300">
+</p>
+
+a perfect classification score is achieved for the
+stage 4 sugar beet test data. This data point is from a real-
+time control environment with almost no sunlight. Even due
+to these shortcomings, the network is still able to classify the
+object.
 
 
 
