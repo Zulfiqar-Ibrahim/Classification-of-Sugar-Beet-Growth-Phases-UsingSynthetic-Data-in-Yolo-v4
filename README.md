@@ -180,6 +180,9 @@ a chart is generated which shows the graphs of Mean Average
 Precision(mAP) and Average Loss.
 
 
+<p align="center">
+  <img src="Images/chart.png" width="300" height="300">
+</p>
 
 
 
