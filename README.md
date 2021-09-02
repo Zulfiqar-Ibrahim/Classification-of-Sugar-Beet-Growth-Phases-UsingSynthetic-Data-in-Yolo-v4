@@ -122,6 +122,21 @@ This growth is also named Rosette growth.
   <img src="Images/SugarBeet_stage_4.png" width="300" height="300">
 </p>
 
+Phase 4 is the fully grown stage where the leaves are
+in perfect condition. Beetroot has reached harvest-able size.
+The main flower is fully grown and open. The main stem
+is approximately 20 cm long and leaves cover 90 % of the
+ground. After the modeling and designing of all the phases
+of sugar beet, object is the planted into the soil of simulated
+environment in Unreal Engine. This simulation provides the
+opportunity to create any field with any terrain of sugar beet
+lines. The muddy texture of soil can also be used to get
+the rainy environment. All of the weather conditions can be
+simulated using UE. This allows to create diverse data with
+very high variability. The size of sugar beet model can be
+increased/decreased to get high-quality data in real-time.
 
-
+<p align="center">
+  <img src="Images/sugar_beet_in_farmland.png" width="300" height="300">
+</p>
 
