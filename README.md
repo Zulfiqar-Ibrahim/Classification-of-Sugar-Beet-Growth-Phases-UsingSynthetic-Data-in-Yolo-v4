@@ -5,3 +5,5 @@ There are four types of 3D models according to their growth phase which is then 
 Unreal engine is used to simulate a farm-like environment for acquisition training images. This training data is used for the
 training and validation process for Yolo net. In the end, 3D models of sugar beet in a simulated environment have produced
 substantial results which proved that synthetic data can be used for real-life application of object detection.
+
+![Alt text](/home/zulfiqar/Masters_Project_TU_KL/Classification-of-Sugar-Beet-Growth-Phases-UsingSynthetic-Data-in-Yolo-v4/Classification-of-Sugar-Beet-Growth-Phases-UsingSynthetic-Data-in-Yolo-v4/SugarBeet_stage_1.png?raw=true "Title")
