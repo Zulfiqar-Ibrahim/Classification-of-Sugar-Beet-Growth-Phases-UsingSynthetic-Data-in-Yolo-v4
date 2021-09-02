@@ -140,3 +140,22 @@ increased/decreased to get high-quality data in real-time.
   <img src="Images/sugar_beet_in_farmland.png" width="300" height="300">
 </p>
 
+###Segmentation in Unreal Engine
+
+
+Segmentation of images plays a cerebral role in labeling.
+Yolo net requires a special format of labeling in order to
+train itself. The 3D models of sugar beet are being designed
+and planted in the simulated farm in Unreal Engine. This
+environment provides freedom to play around with the settings
+and generate any amount of data under any condition. This
+freedom allows to color every pixel that belongs to sugar beet’s
+.FBX model with red and rest of the pixels will be colored
+black. This technique is crucial to create the segmented image
+of the normal RGB image. The unreal engine also provides
+segmented images which are very beneficial for labeling data.
+By using the ”Sequencer” tool in Unreal Engine, cinematic is
+created from a farm environment. In this cinematic, images
+are acquired with a resolution of 416*416. Yolo net requires
+the resolution of training images with a multiple of 16 which
+is the resolution of 416*416 is selected.
