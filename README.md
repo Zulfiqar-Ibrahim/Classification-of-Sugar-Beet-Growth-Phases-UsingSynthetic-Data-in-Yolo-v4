@@ -34,6 +34,28 @@ these labelled images for the training and validation purpose.
 
 ## Project Pipe line 
 
+This section discusses the complete pipeline of our project.
+The first task in our pipeline is to create a 3D model of
+sugar beet. These models are categorized according to their
+age. there are four phases (0-4) for each 3D model. Blender
+software is used for the modeling of these sugar beets. For the
+textures of leaves, real texture is captured from a video of a
+sugar beet farm. In this way, there is no need to create texture
+from ground zero. These textures are then mapped to the leaf
+model of the sugar beet to create a sense of realism. After
+creating five models of sugar beet in Blender software, then
+import the .fbx files of these models in the Unreal Engine 4
+for farm simulation.
+In Unreal Engine 4, farm simulation is designed with vari-
+able weather. This simulation gives control over every detail
+like weather, soil texture, plant spacing, air pressure, terrain
+adjustment, etc. Tractor model is also constructed which will
+drive from one point to other points in the field. The path
+of tractor movement is selected by the user. After the path
+selection, camera is attached to the tractor which will take
+images of sugar beet planted in the soil. The parameters of a
+camera will be discussed later.
+
 <img src="Images/draw_io.png">
 
 <img src="Images/SugarBeet_stage_1.png" width="300" height="300">
