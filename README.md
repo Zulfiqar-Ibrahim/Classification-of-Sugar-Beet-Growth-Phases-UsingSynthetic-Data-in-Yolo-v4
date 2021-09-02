@@ -6,4 +6,17 @@ Unreal engine is used to simulate a farm-like environment for acquisition traini
 training and validation process for Yolo net. In the end, 3D models of sugar beet in a simulated environment have produced
 substantial results which proved that synthetic data can be used for real-life application of object detection.
 
+In this project, state-of-the-art Yolo v4 net  was deployed
+for the classification of the age of the sugar beet plant in
+real-time. For training and validation purposes, four classes of
+3D models of sugar beet were designed in Blender software
+and deployed in an Unreal Engine environment with variable
+weather settings. A camera is attached to the tractor in
+a simulated environment which records the video of beets
+planted in soil. Extracted images are labeled from the video
+and feed them to Yolo net for training and validation processes.
+The optimal goal of this project is to achieve the substantial
+percentage of Mean Average Precision (m.A.P) in Yolo net by
+using synthetic data.
+
 <img src="Images/SugarBeet_stage_1.png" width="300" height="300">
