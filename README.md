@@ -140,7 +140,7 @@ increased/decreased to get high-quality data in real-time.
   <img src="Images/sugar_beet_in_farmland.png" width="300" height="300">
 </p>
 
-###Segmentation in Unreal Engine
+### Segmentation in Unreal Engine
 
 
 Segmentation of images plays a cerebral role in labeling.
@@ -156,6 +156,47 @@ of the normal RGB image. The unreal engine also provides
 segmented images which are very beneficial for labeling data.
 By using the ”Sequencer” tool in Unreal Engine, cinematic is
 created from a farm environment. In this cinematic, images
-are acquired with a resolution of 416*416. Yolo net requires
+are acquired with a resolution of 416 by 416. Yolo net requires
 the resolution of training images with a multiple of 16 which
 is the resolution of 416*416 is selected.
+
+<p align="center">
+  <img src="Images/imgonline-com-ua-twotoone-ICPZrfcxwp1ZUw.jpg" width="300" height="300">
+</p>
+
+<p align="center">
+  <img src="Images/imgonline-com-ua-twotoone-LHfrGECkK0B.jpg" width="300" height="300">
+</p>
+
+### Training and Evaluation
+
+There are 11500 data images (divided into 5 classes) col-
+lected from the farm field environment. 75% of data is then
+used for training and 25% is used for validation. The Tesla
+P100 GPU is used with 27 GB ram in the google colab
+environment. This GPU has allows to train with high volume
+of data in a reasonable short span of time. After the training,
+a chart is generated which shows the graphs of Mean Average
+Precision(mAP) and Average Loss.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
