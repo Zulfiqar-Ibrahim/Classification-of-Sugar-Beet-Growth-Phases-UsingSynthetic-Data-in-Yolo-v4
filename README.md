@@ -85,21 +85,31 @@ for 3D modeling and designing. With the help of this tool, 5
 phases of sugar beet are created. These 5 phases are according
 to their growth stages.
 
+<p align="center">
+  <img src="Images/SugarBeet_stage_1.png" width="300" height="300">
+</p>
 
-<img src="Images/SugarBeet_stage_1.png" width="300" height="300">
+
 
 Phase 0 refers to the initial growth stage which is very
 early in development. This stage has very small leaves and
 a vertically longer beetroot.
 
+<p align="center">
+  <img src="Images/SugarBeet_stage_2.png" width="300" height="300">
 
-<img src="Images/SugarBeet_stage_2.png" width="300" height="300">
+</p>
+
 
 Phase 1 refers to the early stage of growth with 4 leaves. In
 this setting, two leaves are longer than the other two leaves.
 The beetroot is slightly bigger than the phase 0 beetroot.
 
-<img src="Images/SugarBeet_stage_3.png" width="300" height="300">
+<p align="center">
+  <img src="Images/SugarBeet_stage_3.png" width="300" height="300">
+</p>
+
+
 
 In phase 2, mature leaves are compared to the last stage’s
 leaves. The beetroot is more elongated as compared to the
@@ -108,6 +118,10 @@ The main flower is 20 % open and leaves are starting to get
 a yellowish-green color. All 4 leaves are properly unfolded.
 This growth is also named Rosette growth.
 
-<img src="Images/SugarBeet_stage_4.png" width="300" height="300">
+<p align="center">
+  <img src="Images/SugarBeet_stage_4.png" width="300" height="300">
+</p>
+
+
 
 
