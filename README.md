@@ -56,7 +56,7 @@ selection, camera is attached to the tractor which will take
 images of sugar beet planted in the soil. The parameters of a
 camera will be discussed later.
 
-<img align="right" src="Images/draw_io.png">
+<img align="center" src="Images/draw_io.png">
 
 ### Camera Setup
 
